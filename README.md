@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-user-form.git
+   git clone https:https://github.com/TeamSAK/User-Registration-App.git
    ```
 
 2. Navigate to the project directory:
